@@ -1,0 +1,2445 @@
+[
+  {
+    "round": 2,
+    "date": "2015-02-07",
+    "invitationIssued": 779,
+    "lowestCRS": 818,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 3,
+    "date": "2015-02-20",
+    "invitationIssued": 849,
+    "lowestCRS": 808,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 4,
+    "date": "2015-02-27",
+    "invitationIssued": 1187,
+    "lowestCRS": 735,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 5,
+    "date": "2015-03-20",
+    "invitationIssued": 1620,
+    "lowestCRS": 481,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 6,
+    "date": "2015-03-27",
+    "invitationIssued": 1637,
+    "lowestCRS": 453,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 7,
+    "date": "2015-04-10",
+    "invitationIssued": 925,
+    "lowestCRS": 469,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 8,
+    "date": "2015-04-17",
+    "invitationIssued": 715,
+    "lowestCRS": 453,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 9,
+    "date": "2015-05-22",
+    "invitationIssued": 1361,
+    "lowestCRS": 755,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 10,
+    "date": "2015-06-12",
+    "invitationIssued": 1501,
+    "lowestCRS": 482,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 11,
+    "date": "2015-06-26",
+    "invitationIssued": 1575,
+    "lowestCRS": 469,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 12,
+    "date": "2015-07-10",
+    "invitationIssued": 1516,
+    "lowestCRS": 463,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 13,
+    "date": "2015-07-17",
+    "invitationIssued": 1581,
+    "lowestCRS": 451,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 14,
+    "date": "2015-08-07",
+    "invitationIssued": 1402,
+    "lowestCRS": 471,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 15,
+    "date": "2015-08-21",
+    "invitationIssued": 1523,
+    "lowestCRS": 456,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 16,
+    "date": "2015-09-08",
+    "invitationIssued": 1517,
+    "lowestCRS": 459,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 17,
+    "date": "2015-09-18",
+    "invitationIssued": 1545,
+    "lowestCRS": 450,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 18,
+    "date": "2015-10-02",
+    "invitationIssued": 1530,
+    "lowestCRS": 450,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 19,
+    "date": "2015-10-23",
+    "invitationIssued": 1502,
+    "lowestCRS": 489,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 20,
+    "date": "2015-11-13",
+    "invitationIssued": 1506,
+    "lowestCRS": 484,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 21,
+    "date": "2015-11-27",
+    "invitationIssued": 1559,
+    "lowestCRS": 472,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 22,
+    "date": "2015-12-04",
+    "invitationIssued": 1451,
+    "lowestCRS": 461,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 23,
+    "date": "2015-12-18",
+    "invitationIssued": 1503,
+    "lowestCRS": 460,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 24,
+    "date": "2016-01-06",
+    "invitationIssued": 1463,
+    "lowestCRS": 461,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 25,
+    "date": "2016-01-13",
+    "invitationIssued": 1518,
+    "lowestCRS": 453,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 26,
+    "date": "2016-01-27",
+    "invitationIssued": 1468,
+    "lowestCRS": 457,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 27,
+    "date": "2016-02-10",
+    "invitationIssued": 1505,
+    "lowestCRS": 459,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 28,
+    "date": "2016-02-24",
+    "invitationIssued": 1484,
+    "lowestCRS": 453,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 29,
+    "date": "2016-03-09",
+    "invitationIssued": 1013,
+    "lowestCRS": 473,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 30,
+    "date": "2016-03-23",
+    "invitationIssued": 1014,
+    "lowestCRS": 470,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 31,
+    "date": "2016-04-06",
+    "invitationIssued": 954,
+    "lowestCRS": 470,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 32,
+    "date": "2016-04-20",
+    "invitationIssued": 1018,
+    "lowestCRS": 468,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 33,
+    "date": "2016-05-06",
+    "invitationIssued": 799,
+    "lowestCRS": 534,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 34,
+    "date": "2016-05-18",
+    "invitationIssued": 763,
+    "lowestCRS": 484,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 35,
+    "date": "2016-06-01",
+    "invitationIssued": 762,
+    "lowestCRS": 483,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 36,
+    "date": "2016-06-15",
+    "invitationIssued": 752,
+    "lowestCRS": 488,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 37,
+    "date": "2016-06-29",
+    "invitationIssued": 773,
+    "lowestCRS": 482,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 38,
+    "date": "2016-07-13",
+    "invitationIssued": 747,
+    "lowestCRS": 482,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 39,
+    "date": "2016-07-27",
+    "invitationIssued": 755,
+    "lowestCRS": 488,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 40,
+    "date": "2016-08-10",
+    "invitationIssued": 754,
+    "lowestCRS": 490,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 41,
+    "date": "2016-08-24",
+    "invitationIssued": 750,
+    "lowestCRS": 538,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 42,
+    "date": "2016-09-07",
+    "invitationIssued": 1000,
+    "lowestCRS": 491,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 43,
+    "date": "2016-09-21",
+    "invitationIssued": 1288,
+    "lowestCRS": 483,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 44,
+    "date": "2016-10-12",
+    "invitationIssued": 1518,
+    "lowestCRS": 484,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 45,
+    "date": "2016-10-19",
+    "invitationIssued": 1804,
+    "lowestCRS": 475,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 46,
+    "date": "2016-11-02",
+    "invitationIssued": 2080,
+    "lowestCRS": 472,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 47,
+    "date": "2016-11-16",
+    "invitationIssued": 2427,
+    "lowestCRS": 470,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 48,
+    "date": "2016-11-30",
+    "invitationIssued": 559,
+    "lowestCRS": 786,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 49,
+    "date": "2016-12-16",
+    "invitationIssued": 1936,
+    "lowestCRS": 497,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 50,
+    "date": "2016-12-22",
+    "invitationIssued": 2878,
+    "lowestCRS": 475,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 51,
+    "date": "2017-01-04",
+    "invitationIssued": 2902,
+    "lowestCRS": 468,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 52,
+    "date": "2017-01-11",
+    "invitationIssued": 3334,
+    "lowestCRS": 459,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 53,
+    "date": "2017-01-25",
+    "invitationIssued": 3508,
+    "lowestCRS": 453,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 54,
+    "date": "2017-02-08",
+    "invitationIssued": 3644,
+    "lowestCRS": 447,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 55,
+    "date": "2017-02-22",
+    "invitationIssued": 3611,
+    "lowestCRS": 441,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 56,
+    "date": "2017-03-01",
+    "invitationIssued": 3884,
+    "lowestCRS": 434,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 57,
+    "date": "2017-03-24",
+    "invitationIssued": 3749,
+    "lowestCRS": 441,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 58,
+    "date": "2017-04-05",
+    "invitationIssued": 3753,
+    "lowestCRS": 431,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 59,
+    "date": "2017-04-12",
+    "invitationIssued": 3923,
+    "lowestCRS": 423,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 60,
+    "date": "2017-04-19",
+    "invitationIssued": 3665,
+    "lowestCRS": 415,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 61,
+    "date": "2017-05-04",
+    "invitationIssued": 3796,
+    "lowestCRS": 423,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 62,
+    "date": "2017-05-17",
+    "invitationIssued": 3687,
+    "lowestCRS": 415,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 63,
+    "date": "2017-05-26",
+    "invitationIssued": 143,
+    "lowestCRS": 775,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 64,
+    "date": "2017-05-26",
+    "invitationIssued": 400,
+    "lowestCRS": 199,
+    "roundType": "Federal Skilled Trades"
+  },
+  {
+    "round": 65,
+    "date": "2017-05-31",
+    "invitationIssued": 3877,
+    "lowestCRS": 413,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 66,
+    "date": "2017-06-28",
+    "invitationIssued": 3409,
+    "lowestCRS": 449,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 67,
+    "date": "2017-07-12",
+    "invitationIssued": 3202,
+    "lowestCRS": 440,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 68,
+    "date": "2017-08-02",
+    "invitationIssued": 3264,
+    "lowestCRS": 441,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 69,
+    "date": "2017-08-09",
+    "invitationIssued": 2991,
+    "lowestCRS": 433,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 70,
+    "date": "2017-08-23",
+    "invitationIssued": 3035,
+    "lowestCRS": 434,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 71,
+    "date": "2017-09-06",
+    "invitationIssued": 2772,
+    "lowestCRS": 435,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 72,
+    "date": "2017-09-20",
+    "invitationIssued": 2871,
+    "lowestCRS": 433,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 73,
+    "date": "2017-10-04",
+    "invitationIssued": 2801,
+    "lowestCRS": 438,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 74,
+    "date": "2017-10-18",
+    "invitationIssued": 2757,
+    "lowestCRS": 436,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 75,
+    "date": "2017-11-01",
+    "invitationIssued": 290,
+    "lowestCRS": 673,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 76,
+    "date": "2017-11-01",
+    "invitationIssued": 505,
+    "lowestCRS": 241,
+    "roundType": "Federal Skilled Trades"
+  },
+  {
+    "round": 77,
+    "date": "2017-11-08",
+    "invitationIssued": 2000,
+    "lowestCRS": 458,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 78,
+    "date": "2017-11-15",
+    "invitationIssued": 2750,
+    "lowestCRS": 439,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 79,
+    "date": "2017-12-06",
+    "invitationIssued": 2750,
+    "lowestCRS": 452,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 80,
+    "date": "2017-12-20",
+    "invitationIssued": 2750,
+    "lowestCRS": 446,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 81,
+    "date": "2018-01-10",
+    "invitationIssued": 2750,
+    "lowestCRS": 446,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 82,
+    "date": "2018-01-24",
+    "invitationIssued": 2750,
+    "lowestCRS": 444,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 83,
+    "date": "2018-02-07",
+    "invitationIssued": 3000,
+    "lowestCRS": 442,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 84,
+    "date": "2018-02-21",
+    "invitationIssued": 3000,
+    "lowestCRS": 442,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 85,
+    "date": "2018-03-14",
+    "invitationIssued": 3000,
+    "lowestCRS": 456,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 86,
+    "date": "2018-03-26",
+    "invitationIssued": 3000,
+    "lowestCRS": 446,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 87,
+    "date": "2018-04-11",
+    "invitationIssued": 3500,
+    "lowestCRS": 444,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 88,
+    "date": "2018-04-25",
+    "invitationIssued": 3500,
+    "lowestCRS": 441,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 89,
+    "date": "2018-05-09",
+    "invitationIssued": 3500,
+    "lowestCRS": 441,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 90,
+    "date": "2018-05-23",
+    "invitationIssued": 3500,
+    "lowestCRS": 440,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": "91a",
+    "date": "2018-05-30",
+    "invitationIssued": 500,
+    "lowestCRS": 288,
+    "roundType": "Federal Skilled Trades"
+  },
+  {
+    "round": "91b",
+    "date": "2018-05-30",
+    "invitationIssued": 200,
+    "lowestCRS": 902,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 92,
+    "date": "2018-06-13",
+    "invitationIssued": 3750,
+    "lowestCRS": 451,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 93,
+    "date": "2018-06-25",
+    "invitationIssued": 3750,
+    "lowestCRS": 442,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 94,
+    "date": "2018-07-11",
+    "invitationIssued": 3750,
+    "lowestCRS": 442,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 95,
+    "date": "2018-07-25",
+    "invitationIssued": 3750,
+    "lowestCRS": 441,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 96,
+    "date": "2018-08-08",
+    "invitationIssued": 3750,
+    "lowestCRS": 440,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 97,
+    "date": "2018-08-22",
+    "invitationIssued": 3750,
+    "lowestCRS": 440,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 98,
+    "date": "2018-09-05",
+    "invitationIssued": 3900,
+    "lowestCRS": 440,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 99,
+    "date": "2018-09-19",
+    "invitationIssued": 3500,
+    "lowestCRS": 441,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 100,
+    "date": "2018-09-24",
+    "invitationIssued": 400,
+    "lowestCRS": 284,
+    "roundType": "Federal Skilled Trades"
+  },
+  {
+    "round": 101,
+    "date": "2018-10-03",
+    "invitationIssued": 3900,
+    "lowestCRS": 445,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 102,
+    "date": "2018-10-15",
+    "invitationIssued": 3900,
+    "lowestCRS": 440,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 103,
+    "date": "2018-10-29",
+    "invitationIssued": 3900,
+    "lowestCRS": 442,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 104,
+    "date": "2018-11-14",
+    "invitationIssued": 3900,
+    "lowestCRS": 449,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 105,
+    "date": "2018-11-28",
+    "invitationIssued": 3900,
+    "lowestCRS": 445,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 106,
+    "date": "2018-12-12",
+    "invitationIssued": 3900,
+    "lowestCRS": 445,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 107,
+    "date": "2018-12-19",
+    "invitationIssued": 3900,
+    "lowestCRS": 439,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 108,
+    "date": "2019-01-09",
+    "invitationIssued": 3900,
+    "lowestCRS": 449,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 109,
+    "date": "2019-01-23",
+    "invitationIssued": 3900,
+    "lowestCRS": 443,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 110,
+    "date": "2019-01-30",
+    "invitationIssued": 3350,
+    "lowestCRS": 438,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 111,
+    "date": "2019-02-20",
+    "invitationIssued": 3350,
+    "lowestCRS": 457,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 112,
+    "date": "2019-03-06",
+    "invitationIssued": 3350,
+    "lowestCRS": 454,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 113,
+    "date": "2019-03-20",
+    "invitationIssued": 3350,
+    "lowestCRS": 452,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 114,
+    "date": "2019-04-03",
+    "invitationIssued": 3350,
+    "lowestCRS": 451,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 115,
+    "date": "2019-04-17",
+    "invitationIssued": 3350,
+    "lowestCRS": 451,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 116,
+    "date": "2019-05-01",
+    "invitationIssued": 3350,
+    "lowestCRS": 450,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 117,
+    "date": "2019-05-15",
+    "invitationIssued": 500,
+    "lowestCRS": 332,
+    "roundType": "Federal Skilled Trades"
+  },
+  {
+    "round": 118,
+    "date": "2019-05-29",
+    "invitationIssued": 3350,
+    "lowestCRS": 470,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 119,
+    "date": "2019-06-12",
+    "invitationIssued": 3350,
+    "lowestCRS": 465,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 120,
+    "date": "2019-06-26",
+    "invitationIssued": 3350,
+    "lowestCRS": 462,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 121,
+    "date": "2019-07-10",
+    "invitationIssued": 3600,
+    "lowestCRS": 460,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 122,
+    "date": "2019-07-24",
+    "invitationIssued": 3600,
+    "lowestCRS": 459,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 123,
+    "date": "2019-08-12",
+    "invitationIssued": 3600,
+    "lowestCRS": 466,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 124,
+    "date": "2019-08-20",
+    "invitationIssued": 3600,
+    "lowestCRS": 457,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 125,
+    "date": "2019-09-04",
+    "invitationIssued": 3600,
+    "lowestCRS": 463,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 126,
+    "date": "2019-09-18",
+    "invitationIssued": 3600,
+    "lowestCRS": 462,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 127,
+    "date": "2019-10-02",
+    "invitationIssued": 3900,
+    "lowestCRS": 464,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 128,
+    "date": "2019-10-16",
+    "invitationIssued": 500,
+    "lowestCRS": 357,
+    "roundType": "Federal Skilled Trades"
+  },
+  {
+    "round": 129,
+    "date": "2019-10-30",
+    "invitationIssued": 3900,
+    "lowestCRS": 475,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 130,
+    "date": "2019-11-13",
+    "invitationIssued": 3600,
+    "lowestCRS": 472,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 131,
+    "date": "2019-11-27",
+    "invitationIssued": 3600,
+    "lowestCRS": 471,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 132,
+    "date": "2019-12-11",
+    "invitationIssued": 3200,
+    "lowestCRS": 472,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 133,
+    "date": "2019-12-19",
+    "invitationIssued": 3200,
+    "lowestCRS": 469,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 134,
+    "date": "2020-01-08",
+    "invitationIssued": 3400,
+    "lowestCRS": 473,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 135,
+    "date": "2020-01-22",
+    "invitationIssued": 3400,
+    "lowestCRS": 471,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 136,
+    "date": "2020-02-05",
+    "invitationIssued": 3500,
+    "lowestCRS": 472,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 137,
+    "date": "2020-02-19",
+    "invitationIssued": 4500,
+    "lowestCRS": 470,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 138,
+    "date": "2020-03-04",
+    "invitationIssued": 3900,
+    "lowestCRS": 471,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 139,
+    "date": "2020-03-18",
+    "invitationIssued": 668,
+    "lowestCRS": 720,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 140,
+    "date": "2020-03-23",
+    "invitationIssued": 3232,
+    "lowestCRS": 467,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 141,
+    "date": "2020-04-09",
+    "invitationIssued": 606,
+    "lowestCRS": 698,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 142,
+    "date": "2020-04-09",
+    "invitationIssued": 3294,
+    "lowestCRS": 464,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 143,
+    "date": "2020-04-15",
+    "invitationIssued": 118,
+    "lowestCRS": 808,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 144,
+    "date": "2020-04-16",
+    "invitationIssued": 3782,
+    "lowestCRS": 455,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 145,
+    "date": "2020-04-29",
+    "invitationIssued": 589,
+    "lowestCRS": 692,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 146,
+    "date": "2020-04-30",
+    "invitationIssued": 3311,
+    "lowestCRS": 452,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 147,
+    "date": "2020-05-13",
+    "invitationIssued": 529,
+    "lowestCRS": 718,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 148,
+    "date": "2020-05-14",
+    "invitationIssued": 3371,
+    "lowestCRS": 447,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 149,
+    "date": "2020-05-27",
+    "invitationIssued": 385,
+    "lowestCRS": 757,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 150,
+    "date": "2020-05-28",
+    "invitationIssued": 3515,
+    "lowestCRS": 440,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 151,
+    "date": "2020-06-10",
+    "invitationIssued": 341,
+    "lowestCRS": 743,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 152,
+    "date": "2020-06-11",
+    "invitationIssued": 3559,
+    "lowestCRS": 437,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 153,
+    "date": "2020-06-24",
+    "invitationIssued": 392,
+    "lowestCRS": 696,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 154,
+    "date": "2020-06-25",
+    "invitationIssued": 3508,
+    "lowestCRS": 431,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 155,
+    "date": "2020-07-08",
+    "invitationIssued": 3900,
+    "lowestCRS": 478,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 156,
+    "date": "2020-07-22",
+    "invitationIssued": 557,
+    "lowestCRS": 687,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 157,
+    "date": "2020-07-23",
+    "invitationIssued": 3343,
+    "lowestCRS": 445,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 158,
+    "date": "2020-08-05",
+    "invitationIssued": 3900,
+    "lowestCRS": 476,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 159,
+    "date": "2020-08-06",
+    "invitationIssued": 250,
+    "lowestCRS": 415,
+    "roundType": "Federal Skilled Trades"
+  },
+  {
+    "round": 160,
+    "date": "2020-08-19",
+    "invitationIssued": 600,
+    "lowestCRS": 771,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 161,
+    "date": "2020-08-20",
+    "invitationIssued": 3300,
+    "lowestCRS": 454,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 162,
+    "date": "2020-09-02",
+    "invitationIssued": 4200,
+    "lowestCRS": 475,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 163,
+    "date": "2020-09-16",
+    "invitationIssued": 4200,
+    "lowestCRS": 472,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 164,
+    "date": "2020-09-30",
+    "invitationIssued": 4200,
+    "lowestCRS": 471,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 165,
+    "date": "2020-10-14",
+    "invitationIssued": 4500,
+    "lowestCRS": 471,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 166,
+    "date": "2020-11-05",
+    "invitationIssued": 4500,
+    "lowestCRS": 478,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 167,
+    "date": "2020-11-18",
+    "invitationIssued": 5000,
+    "lowestCRS": 472,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 168,
+    "date": "2020-11-25",
+    "invitationIssued": 5000,
+    "lowestCRS": 469,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 169,
+    "date": "2020-12-09",
+    "invitationIssued": 5000,
+    "lowestCRS": 469,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 170,
+    "date": "2020-12-23",
+    "invitationIssued": 5000,
+    "lowestCRS": 468,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 171,
+    "date": "2021-01-06",
+    "invitationIssued": 250,
+    "lowestCRS": 813,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 172,
+    "date": "2021-01-07",
+    "invitationIssued": 4750,
+    "lowestCRS": 461,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 173,
+    "date": "2021-01-20",
+    "invitationIssued": 374,
+    "lowestCRS": 741,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 174,
+    "date": "2021-01-21",
+    "invitationIssued": 4626,
+    "lowestCRS": 454,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 175,
+    "date": "2021-02-10",
+    "invitationIssued": 654,
+    "lowestCRS": 720,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 176,
+    "date": "2021-02-13",
+    "invitationIssued": 27332,
+    "lowestCRS": 75,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 177,
+    "date": "2021-03-08",
+    "invitationIssued": 671,
+    "lowestCRS": 739,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 178,
+    "date": "2021-03-17",
+    "invitationIssued": 183,
+    "lowestCRS": 682,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 179,
+    "date": "2021-03-18",
+    "invitationIssued": 5000,
+    "lowestCRS": 449,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 180,
+    "date": "2021-03-31",
+    "invitationIssued": 284,
+    "lowestCRS": 778,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 181,
+    "date": "2021-04-01",
+    "invitationIssued": 5000,
+    "lowestCRS": 432,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 182,
+    "date": "2021-04-14",
+    "invitationIssued": 266,
+    "lowestCRS": 753,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 183,
+    "date": "2021-04-16",
+    "invitationIssued": 6000,
+    "lowestCRS": 417,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 184,
+    "date": "2021-04-28",
+    "invitationIssued": 381,
+    "lowestCRS": 717,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 185,
+    "date": "2021-04-29",
+    "invitationIssued": 6000,
+    "lowestCRS": 400,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 186,
+    "date": "2021-05-12",
+    "invitationIssued": 557,
+    "lowestCRS": 752,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 187,
+    "date": "2021-05-13",
+    "invitationIssued": 4147,
+    "lowestCRS": 401,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 188,
+    "date": "2021-05-20",
+    "invitationIssued": 1842,
+    "lowestCRS": 397,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 189,
+    "date": "2021-05-26",
+    "invitationIssued": 500,
+    "lowestCRS": 713,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 190,
+    "date": "2021-05-31",
+    "invitationIssued": 5956,
+    "lowestCRS": 380,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 191,
+    "date": "2021-06-09",
+    "invitationIssued": 940,
+    "lowestCRS": 711,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 192,
+    "date": "2021-06-10",
+    "invitationIssued": 6000,
+    "lowestCRS": 368,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 193,
+    "date": "2021-06-23",
+    "invitationIssued": 1002,
+    "lowestCRS": 742,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 194,
+    "date": "2021-06-24",
+    "invitationIssued": 6000,
+    "lowestCRS": 357,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 195,
+    "date": "2021-07-07",
+    "invitationIssued": 627,
+    "lowestCRS": 760,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 196,
+    "date": "2021-07-08",
+    "invitationIssued": 4500,
+    "lowestCRS": 369,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 197,
+    "date": "2021-07-21",
+    "invitationIssued": 462,
+    "lowestCRS": 734,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 198,
+    "date": "2021-07-22",
+    "invitationIssued": 4500,
+    "lowestCRS": 357,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 199,
+    "date": "2021-08-04",
+    "invitationIssued": 512,
+    "lowestCRS": 760,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 200,
+    "date": "2021-08-05",
+    "invitationIssued": 3000,
+    "lowestCRS": 404,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 201,
+    "date": "2021-08-18",
+    "invitationIssued": 463,
+    "lowestCRS": 751,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 202,
+    "date": "2021-08-19",
+    "invitationIssued": 3000,
+    "lowestCRS": 403,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 203,
+    "date": "2021-09-01",
+    "invitationIssued": 635,
+    "lowestCRS": 764,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 204,
+    "date": "2021-09-14",
+    "invitationIssued": 2000,
+    "lowestCRS": 462,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 205,
+    "date": "2021-09-15",
+    "invitationIssued": 521,
+    "lowestCRS": 732,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 206,
+    "date": "2021-09-29",
+    "invitationIssued": 761,
+    "lowestCRS": 742,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 207,
+    "date": "2021-10-13",
+    "invitationIssued": 681,
+    "lowestCRS": 720,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 208,
+    "date": "2021-10-27",
+    "invitationIssued": 681,
+    "lowestCRS": 744,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 209,
+    "date": "2021-11-10",
+    "invitationIssued": 775,
+    "lowestCRS": 685,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 210,
+    "date": "2021-11-24",
+    "invitationIssued": 613,
+    "lowestCRS": 737,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 211,
+    "date": "2021-12-10",
+    "invitationIssued": 1032,
+    "lowestCRS": 698,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 212,
+    "date": "2021-12-22",
+    "invitationIssued": 746,
+    "lowestCRS": 720,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 213,
+    "date": "2022-01-05",
+    "invitationIssued": 392,
+    "lowestCRS": 808,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 214,
+    "date": "2022-01-19",
+    "invitationIssued": 1036,
+    "lowestCRS": 745,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 215,
+    "date": "2022-02-02",
+    "invitationIssued": 1070,
+    "lowestCRS": 674,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 216,
+    "date": "2022-02-16",
+    "invitationIssued": 1082,
+    "lowestCRS": 710,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 217,
+    "date": "2022-03-02",
+    "invitationIssued": 1047,
+    "lowestCRS": 761,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 218,
+    "date": "2022-03-16",
+    "invitationIssued": 924,
+    "lowestCRS": 754,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 219,
+    "date": "2022-03-30",
+    "invitationIssued": 919,
+    "lowestCRS": 785,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 220,
+    "date": "2022-04-13",
+    "invitationIssued": 787,
+    "lowestCRS": 782,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 221,
+    "date": "2022-04-27",
+    "invitationIssued": 829,
+    "lowestCRS": 772,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 222,
+    "date": "2022-05-11",
+    "invitationIssued": 545,
+    "lowestCRS": 753,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 223,
+    "date": "2022-05-25",
+    "invitationIssued": 590,
+    "lowestCRS": 741,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 224,
+    "date": "2022-06-08",
+    "invitationIssued": 932,
+    "lowestCRS": 796,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 225,
+    "date": "2022-06-22",
+    "invitationIssued": 636,
+    "lowestCRS": 752,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 226,
+    "date": "2022-07-06",
+    "invitationIssued": 1500,
+    "lowestCRS": 557,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 227,
+    "date": "2022-07-20",
+    "invitationIssued": 1750,
+    "lowestCRS": 542,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 228,
+    "date": "2022-08-03",
+    "invitationIssued": 2000,
+    "lowestCRS": 533,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 229,
+    "date": "2022-08-17",
+    "invitationIssued": 2250,
+    "lowestCRS": 525,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 230,
+    "date": "2022-08-31",
+    "invitationIssued": 2750,
+    "lowestCRS": 516,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 231,
+    "date": "2022-09-14",
+    "invitationIssued": 3250,
+    "lowestCRS": 510,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 232,
+    "date": "2022-09-28",
+    "invitationIssued": 3750,
+    "lowestCRS": 504,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 233,
+    "date": "2022-10-12",
+    "invitationIssued": 4250,
+    "lowestCRS": 500,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 234,
+    "date": "2022-10-26",
+    "invitationIssued": 4750,
+    "lowestCRS": 496,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 235,
+    "date": "2022-11-09",
+    "invitationIssued": 4750,
+    "lowestCRS": 494,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 236,
+    "date": "2022-11-23",
+    "invitationIssued": 4750,
+    "lowestCRS": 491,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 237,
+    "date": "2023-01-11",
+    "invitationIssued": 5500,
+    "lowestCRS": 507,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 238,
+    "date": "2023-01-18",
+    "invitationIssued": 5500,
+    "lowestCRS": 490,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 239,
+    "date": "2023-02-01",
+    "invitationIssued": 893,
+    "lowestCRS": 733,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 240,
+    "date": "2023-02-02",
+    "invitationIssued": 3300,
+    "lowestCRS": 489,
+    "roundType": "Federal Skilled Worker"
+  },
+  {
+    "round": 241,
+    "date": "2023-02-15",
+    "invitationIssued": 699,
+    "lowestCRS": 791,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 242,
+    "date": "2023-03-01",
+    "invitationIssued": 667,
+    "lowestCRS": 748,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 243,
+    "date": "2023-03-15",
+    "invitationIssued": 7000,
+    "lowestCRS": 490,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 244,
+    "date": "2023-03-23",
+    "invitationIssued": 7000,
+    "lowestCRS": 484,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 245,
+    "date": "2023-03-29",
+    "invitationIssued": 7000,
+    "lowestCRS": 481,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 246,
+    "date": "2023-04-12",
+    "invitationIssued": 3500,
+    "lowestCRS": 486,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 247,
+    "date": "2023-04-26",
+    "invitationIssued": 3500,
+    "lowestCRS": 483,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 248,
+    "date": "2023-05-10",
+    "invitationIssued": 589,
+    "lowestCRS": 691,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 249,
+    "date": "2023-05-24",
+    "invitationIssued": 4800,
+    "lowestCRS": 488,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 250,
+    "date": "2023-06-08",
+    "invitationIssued": 4800,
+    "lowestCRS": 486,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 251,
+    "date": "2023-06-27",
+    "invitationIssued": 4300,
+    "lowestCRS": 486,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 252,
+    "date": "2023-06-28",
+    "invitationIssued": 500,
+    "lowestCRS": 476,
+    "roundType": "Healthcare occupations (Version 1)"
+  },
+  {
+    "round": 253,
+    "date": "2023-07-04",
+    "invitationIssued": 700,
+    "lowestCRS": 511,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 254,
+    "date": "2023-07-05",
+    "invitationIssued": 500,
+    "lowestCRS": 486,
+    "roundType": "STEM occupations (Version 1)"
+  },
+  {
+    "round": 255,
+    "date": "2023-07-06",
+    "invitationIssued": 1500,
+    "lowestCRS": 463,
+    "roundType": "Healthcare occupations (Version 1)"
+  },
+  {
+    "round": 256,
+    "date": "2023-07-07",
+    "invitationIssued": 2300,
+    "lowestCRS": 439,
+    "roundType": "French language proficiency (Version 1)"
+  },
+  {
+    "round": 257,
+    "date": "2023-07-11",
+    "invitationIssued": 800,
+    "lowestCRS": 505,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 258,
+    "date": "2023-07-12",
+    "invitationIssued": 3800,
+    "lowestCRS": 375,
+    "roundType": "French language proficiency (Version 1)"
+  },
+  {
+    "round": 259,
+    "date": "2023-08-01",
+    "invitationIssued": 2000,
+    "lowestCRS": 517,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 260,
+    "date": "2023-08-02",
+    "invitationIssued": 800,
+    "lowestCRS": 435,
+    "roundType": "French language proficiency (Version 1)"
+  },
+  {
+    "round": 261,
+    "date": "2023-08-03",
+    "invitationIssued": 1500,
+    "lowestCRS": 388,
+    "roundType": "Trade occupations (Version 1)"
+  },
+  {
+    "round": 262,
+    "date": "2023-08-15",
+    "invitationIssued": 4300,
+    "lowestCRS": 496,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 263,
+    "date": "2023-09-19",
+    "invitationIssued": 3200,
+    "lowestCRS": 531,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 264,
+    "date": "2023-09-20",
+    "invitationIssued": 1000,
+    "lowestCRS": 435,
+    "roundType": "Transport occupations (Version 1)"
+  },
+  {
+    "round": 265,
+    "date": "2023-09-26",
+    "invitationIssued": 3000,
+    "lowestCRS": 504,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 266,
+    "date": "2023-09-27",
+    "invitationIssued": 500,
+    "lowestCRS": 472,
+    "roundType": "French language proficiency (Version 1)"
+  },
+  {
+    "round": 267,
+    "date": "2023-09-28",
+    "invitationIssued": 600,
+    "lowestCRS": 354,
+    "roundType": "Agriculture and agri-food occupations (Version 1)"
+  },
+  {
+    "round": 268,
+    "date": "2023-10-10",
+    "invitationIssued": 3725,
+    "lowestCRS": 500,
+    "roundType": "No Program Specified"
+  },
+  {
+    "round": 269,
+    "date": "2023-10-24",
+    "invitationIssued": 1548,
+    "lowestCRS": 776,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 270,
+    "date": "2023-10-25",
+    "invitationIssued": 300,
+    "lowestCRS": 486,
+    "roundType": "French language proficiency (Version 1)"
+  },
+  {
+    "round": 271,
+    "date": "2023-10-26",
+    "invitationIssued": 3600,
+    "lowestCRS": 431,
+    "roundType": "Healthcare occupations (Version 1)"
+  },
+  {
+    "round": 272,
+    "date": "2023-12-06",
+    "invitationIssued": 4750,
+    "lowestCRS": 561,
+    "roundType": "General"
+  },
+  {
+    "round": 273,
+    "date": "2023-12-07",
+    "invitationIssued": 1000,
+    "lowestCRS": 470,
+    "roundType": "French language proficiency (Version 1)"
+  },
+  {
+    "round": 274,
+    "date": "2023-12-08",
+    "invitationIssued": 5900,
+    "lowestCRS": 481,
+    "roundType": "STEM occupations (Version 1)"
+  },
+  {
+    "round": 275,
+    "date": "2023-12-18",
+    "invitationIssued": 1325,
+    "lowestCRS": 542,
+    "roundType": "General"
+  },
+  {
+    "round": 276,
+    "date": "2023-12-19",
+    "invitationIssued": 1000,
+    "lowestCRS": 425,
+    "roundType": "Trade occupations (Version 1)"
+  },
+  {
+    "round": 277,
+    "date": "2023-12-20",
+    "invitationIssued": 670,
+    "lowestCRS": 435,
+    "roundType": "Transport occupations (Version 1)"
+  },
+  {
+    "round": 278,
+    "date": "2023-12-21",
+    "invitationIssued": 400,
+    "lowestCRS": 386,
+    "roundType": "Agriculture and agri-food occupations (Version 1)"
+  },
+  {
+    "round": 279,
+    "date": "2024-01-10",
+    "invitationIssued": 1510,
+    "lowestCRS": 546,
+    "roundType": "General"
+  },
+  {
+    "round": 280,
+    "date": "2024-01-23",
+    "invitationIssued": 1040,
+    "lowestCRS": 543,
+    "roundType": "General"
+  },
+  {
+    "round": 281,
+    "date": "2024-01-31",
+    "invitationIssued": 730,
+    "lowestCRS": 541,
+    "roundType": "General"
+  },
+  {
+    "round": 282,
+    "date": "2024-02-01",
+    "invitationIssued": 7000,
+    "lowestCRS": 365,
+    "roundType": "French language proficiency (Version 1)"
+  },
+  {
+    "round": 283,
+    "date": "2024-02-13",
+    "invitationIssued": 1490,
+    "lowestCRS": 535,
+    "roundType": "General"
+  },
+  {
+    "round": 284,
+    "date": "2024-02-14",
+    "invitationIssued": 3500,
+    "lowestCRS": 422,
+    "roundType": "Healthcare occupations (Version 1)"
+  },
+  {
+    "round": 285,
+    "date": "2024-02-16",
+    "invitationIssued": 150,
+    "lowestCRS": 437,
+    "roundType": "Agriculture and agri-food occupations (Version 1)"
+  },
+  {
+    "round": 286,
+    "date": "2024-02-28",
+    "invitationIssued": 1470,
+    "lowestCRS": 534,
+    "roundType": "General"
+  },
+  {
+    "round": 287,
+    "date": "2024-02-29",
+    "invitationIssued": 2500,
+    "lowestCRS": 336,
+    "roundType": "French language proficiency (Version 1)"
+  },
+  {
+    "round": 288,
+    "date": "2024-03-12",
+    "invitationIssued": 2850,
+    "lowestCRS": 525,
+    "roundType": "General"
+  },
+  {
+    "round": 289,
+    "date": "2024-03-13",
+    "invitationIssued": 975,
+    "lowestCRS": 430,
+    "roundType": "Transport occupations (Version 1)"
+  },
+  {
+    "round": 290,
+    "date": "2024-03-25",
+    "invitationIssued": 1980,
+    "lowestCRS": 524,
+    "roundType": "General"
+  },
+  {
+    "round": 291,
+    "date": "2024-03-26",
+    "invitationIssued": 1500,
+    "lowestCRS": 388,
+    "roundType": "French language proficiency (Version 1)"
+  },
+  {
+    "round": 292,
+    "date": "2024-04-10",
+    "invitationIssued": 1280,
+    "lowestCRS": 549,
+    "roundType": "General"
+  },
+  {
+    "round": 293,
+    "date": "2024-04-11",
+    "invitationIssued": 4500,
+    "lowestCRS": 491,
+    "roundType": "STEM occupations (Version 1)"
+  },
+  {
+    "round": 294,
+    "date": "2024-04-23",
+    "invitationIssued": 2095,
+    "lowestCRS": 529,
+    "roundType": "General"
+  },
+  {
+    "round": 295,
+    "date": "2024-04-24",
+    "invitationIssued": 1400,
+    "lowestCRS": 410,
+    "roundType": "French language proficiency (Version 1)"
+  },
+  {
+    "round": 296,
+    "date": "2024-05-30",
+    "invitationIssued": 2985,
+    "lowestCRS": 676,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 297,
+    "date": "2024-05-31",
+    "invitationIssued": 3000,
+    "lowestCRS": 522,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 298,
+    "date": "2024-06-19",
+    "invitationIssued": 1499,
+    "lowestCRS": 663,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 299,
+    "date": "2024-07-02",
+    "invitationIssued": 920,
+    "lowestCRS": 739,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 300,
+    "date": "2024-07-04",
+    "invitationIssued": 1800,
+    "lowestCRS": 436,
+    "roundType": "Trade occupations (Version 1)"
+  },
+  {
+    "round": 301,
+    "date": "2024-07-05",
+    "invitationIssued": 3750,
+    "lowestCRS": 445,
+    "roundType": "Healthcare occupations (Version 1)"
+  },
+  {
+    "round": 302,
+    "date": "2024-07-08",
+    "invitationIssued": 3200,
+    "lowestCRS": 420,
+    "roundType": "French language proficiency (Version 1)"
+  },
+  {
+    "round": 303,
+    "date": "2024-07-16",
+    "invitationIssued": 1391,
+    "lowestCRS": 670,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 304,
+    "date": "2024-07-17",
+    "invitationIssued": 6300,
+    "lowestCRS": 515,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 305,
+    "date": "2024-07-18",
+    "invitationIssued": 1800,
+    "lowestCRS": 400,
+    "roundType": "French language proficiency (Version 1)"
+  },
+  {
+    "round": 306,
+    "date": "2024-07-30",
+    "invitationIssued": 964,
+    "lowestCRS": 686,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 307,
+    "date": "2024-07-31",
+    "invitationIssued": 5000,
+    "lowestCRS": 510,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 308,
+    "date": "2024-08-13",
+    "invitationIssued": 763,
+    "lowestCRS": 690,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 309,
+    "date": "2024-08-14",
+    "invitationIssued": 3200,
+    "lowestCRS": 509,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 310,
+    "date": "2024-08-15",
+    "invitationIssued": 2000,
+    "lowestCRS": 394,
+    "roundType": "French language proficiency (Version 1)"
+  },
+  {
+    "round": 311,
+    "date": "2024-08-26",
+    "invitationIssued": 1121,
+    "lowestCRS": 694,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 312,
+    "date": "2024-08-27",
+    "invitationIssued": 3300,
+    "lowestCRS": 507,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 313,
+    "date": "2024-09-09",
+    "invitationIssued": 911,
+    "lowestCRS": 732,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 314,
+    "date": "2024-09-13",
+    "invitationIssued": 1000,
+    "lowestCRS": 446,
+    "roundType": "French language proficiency (Version 1)"
+  },
+  {
+    "round": 315,
+    "date": "2024-09-19",
+    "invitationIssued": 4000,
+    "lowestCRS": 509,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 316,
+    "date": "2024-10-07",
+    "invitationIssued": 1613,
+    "lowestCRS": 743,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 317,
+    "date": "2024-10-09",
+    "invitationIssued": 500,
+    "lowestCRS": 539,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 318,
+    "date": "2024-10-10",
+    "invitationIssued": 1000,
+    "lowestCRS": 444,
+    "roundType": "French language proficiency (Version 1)"
+  },
+  {
+    "round": 319,
+    "date": "2024-10-21",
+    "invitationIssued": 648,
+    "lowestCRS": 791,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 320,
+    "date": "2024-10-22",
+    "invitationIssued": 400,
+    "lowestCRS": 539,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 321,
+    "date": "2024-10-23",
+    "invitationIssued": 1800,
+    "lowestCRS": 433,
+    "roundType": "Trade occupations (Version 1)"
+  },
+  {
+    "round": 322,
+    "date": "2024-11-12",
+    "invitationIssued": 733,
+    "lowestCRS": 812,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 323,
+    "date": "2024-11-13",
+    "invitationIssued": 400,
+    "lowestCRS": 547,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 324,
+    "date": "2024-11-15",
+    "invitationIssued": 800,
+    "lowestCRS": 478,
+    "roundType": "French language proficiency (Version 1)"
+  },
+  {
+    "round": 325,
+    "date": "2024-11-18",
+    "invitationIssued": 174,
+    "lowestCRS": 816,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 326,
+    "date": "2024-11-19",
+    "invitationIssued": 400,
+    "lowestCRS": 539,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 327,
+    "date": "2024-11-20",
+    "invitationIssued": 3000,
+    "lowestCRS": 463,
+    "roundType": "Healthcare occupations (Version 1)"
+  },
+  {
+    "round": 328,
+    "date": "2024-12-02",
+    "invitationIssued": 676,
+    "lowestCRS": 705,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 329,
+    "date": "2024-12-03",
+    "invitationIssued": 800,
+    "lowestCRS": 466,
+    "roundType": "French language proficiency (Version 1)"
+  },
+  {
+    "round": 330,
+    "date": "2024-12-16",
+    "invitationIssued": 1085,
+    "lowestCRS": 727,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 331,
+    "date": "2025-01-07",
+    "invitationIssued": 471,
+    "lowestCRS": 793,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 332,
+    "date": "2025-01-08",
+    "invitationIssued": 1350,
+    "lowestCRS": 542,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 333,
+    "date": "2025-01-23",
+    "invitationIssued": 4000,
+    "lowestCRS": 527,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 334,
+    "date": "2025-02-04",
+    "invitationIssued": 455,
+    "lowestCRS": 802,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 335,
+    "date": "2025-02-05",
+    "invitationIssued": 4000,
+    "lowestCRS": 521,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 336,
+    "date": "2025-02-17",
+    "invitationIssued": 646,
+    "lowestCRS": 750,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 337,
+    "date": "2025-02-19",
+    "invitationIssued": 6500,
+    "lowestCRS": 428,
+    "roundType": "French language proficiency (Version 1)"
+  },
+  {
+    "round": 338,
+    "date": "2025-03-03",
+    "invitationIssued": 725,
+    "lowestCRS": 667,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 339,
+    "date": "2025-03-06",
+    "invitationIssued": 4500,
+    "lowestCRS": 410,
+    "roundType": "French language proficiency (Version 1)"
+  },
+  {
+    "round": 340,
+    "date": "2025-03-17",
+    "invitationIssued": 536,
+    "lowestCRS": 736,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 341,
+    "date": "2025-03-21",
+    "invitationIssued": 7500,
+    "lowestCRS": 379,
+    "roundType": "French language proficiency (Version 1)"
+  },
+  {
+    "round": 342,
+    "date": "2025-04-14",
+    "invitationIssued": 825,
+    "lowestCRS": 764,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 343,
+    "date": "2025-04-28",
+    "invitationIssued": 421,
+    "lowestCRS": 727,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 344,
+    "date": "2025-05-01",
+    "invitationIssued": 1000,
+    "lowestCRS": 479,
+    "roundType": "Education occupations (Version 1)"
+  },
+  {
+    "round": 345,
+    "date": "2025-05-02",
+    "invitationIssued": 500,
+    "lowestCRS": 510,
+    "roundType": "Healthcare and social services occupations (Version 2)"
+  },
+  {
+    "round": 346,
+    "date": "2025-05-12",
+    "invitationIssued": 511,
+    "lowestCRS": 706,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 347,
+    "date": "2025-05-13",
+    "invitationIssued": 500,
+    "lowestCRS": 547,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 348,
+    "date": "2025-06-02",
+    "invitationIssued": 277,
+    "lowestCRS": 726,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 349,
+    "date": "2025-06-04",
+    "invitationIssued": 500,
+    "lowestCRS": 504,
+    "roundType": "Healthcare and social services occupations (Version 2)"
+  }
+]
