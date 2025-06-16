@@ -2441,5 +2441,19 @@
     "invitationIssued": 500,
     "lowestCRS": 504,
     "roundType": "Healthcare and social services occupations (Version 2)"
+  },
+  {
+    "round": 350,
+    "date": "2025-06-10",
+    "invitationIssued": 125,
+    "lowestCRS": 784,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 351,
+    "date": "2025-06-12",
+    "invitationIssued": 3000,
+    "lowestCRS": 529,
+    "roundType": "Canadian Experience Class"
   }
 ]
