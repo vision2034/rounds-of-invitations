@@ -2455,5 +2455,33 @@
     "invitationIssued": 3000,
     "lowestCRS": 529,
     "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 352,
+    "date": "2025-06-23",
+    "invitationIssued": 503,
+    "lowestCRS": 742,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 353,
+    "date": "2025-06-26",
+    "invitationIssued": 3000,
+    "lowestCRS": 521,
+    "roundType": "Canadian Experience Class"
+  },
+  {
+    "round": 354,
+    "date": "2025-07-07",
+    "invitationIssued": 356,
+    "lowestCRS": 750,
+    "roundType": "Provincial Nominee Program"
+  },
+  {
+    "round": 355,
+    "date": "2025-07-08",
+    "invitationIssued": 3000,
+    "lowestCRS": 518,
+    "roundType": "Canadian Experience Class"
   }
 ]
